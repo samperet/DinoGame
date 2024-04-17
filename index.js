@@ -804,6 +804,10 @@
 
             // Reset the time clock.
             this.time = getTimeStamp();
+
+            postMessage("game_over", {
+                score: this.highestScore,
+            });
         },
 
         stop: function () {

@@ -1,47 +1,57 @@
-## t-rex-runner
+# T-Rex Runner
 
-the trex runner game extracted from chrome offline err page.
+The T-Rex runner game extracted from the Chrome offline error page.
 
-see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
+See the [source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from Chromium.
 
+[Go and enjoy the game!](http://wayou.github.io/t-rex-runner/)
 
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+![T-Rex Runner Game](assets/screenshot.gif)
 
-![chrome offline game cast](assets/screenshot.gif)
+## Interesting Forks
 
-## Interesting Forks/In Chinese, we call it 「花样玩法」
+Here are some interesting forks of this project, showcasing various creative versions of the T-Rex runner game.
 
-- [vianroyal](https://github.com/vianroyal)/[t-rex-runner](https://github.com/vianroyal/t-rex-runner) [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
-<br>
+### Kumamon Runner by [vianroyal](https://github.com/vianroyal)
 
-![](assets/kumamon-runner.gif)
+[Kumamon runner](http://vianroyal.github.io/t-rex-runner/)
 
-- [xkuga](https://github.com/xkuga)/[t-rex-runner](https://github.com/xkuga/t-rex-runner) [Hello KuGou](http://hellokugou.com/) 
-<br>
+![Kumamon Runner](assets/kumamon-runner.gif)
 
-![](assets/hello-kugou.gif)
+### Hello KuGou by [xkuga](https://github.com/xkuga)
 
-- [d-nery](https://github.com/d-nery/)/[t-rex-runner](https://github.com/d-nery/t-rex-runner) [Novas coisas](http://d-nery.github.io/t-rex-runner/) 
-<br>
+[Hello KuGou](http://hellokugou.com/)
 
-![](assets/novas-coisas.gif)
+![Hello KuGou](assets/hello-kugou.gif)
 
-- [chirag64](https://github.com/chirag64)/[t-rex-runner-bot](https://github.com/chirag64/t-rex-runner-bot) [t-rex runner bot](https://chirag64.github.io/t-rex-runner-bot/) 
-<br>
+### Novas Coisas by [d-nery](https://github.com/d-nery/)
 
-![](assets/t-rex-runner-bot.gif)
+[Novas Coisas](http://d-nery.github.io/t-rex-runner/)
 
-- [19janil](https://github.com/19janil)/[t-rex-runner](https://github.com/19janil/t-rex-runner) [t-rex runner](https://19janil.github.io/t-rex-runner/) 
-<br>
+![Novas Coisas](assets/novas-coisas.gif)
 
-![](assets/t-rex-runner-19janil.gif)
+### T-Rex Runner Bot by [chirag64](https://github.com/chirag64)
 
-- [enthus1ast](https://github.com/enthus1ast)/[chromeTrip](https://github.com/enthus1ast/chromeTrip) [Chrome Trip by code0](https://code0.itch.io/chrome-trip) 
-<br>
+[T-Rex Runner Bot](https://chirag64.github.io/t-rex-runner-bot/)
 
-![](https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif)
+![T-Rex Runner Bot](assets/t-rex-runner-bot.gif)
 
-- [zouariste](https://github.com/zouariste)/[corona-runner](https://github.com/zouariste/corona-runner) [Corona runner](https://zouariste.github.io/corona-runner/) 
-<br>
+### T-Rex Runner by [19janil](https://github.com/19janil)
 
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+[T-Rex Runner](https://19janil.github.io/t-rex-runner/)
+
+![T-Rex Runner](assets/t-rex-runner-19janil.gif)
+
+### Chrome Trip by [enthus1ast](https://github.com/enthus1ast)
+
+[Chrome Trip by code0](https://code0.itch.io/chrome-trip)
+
+![Chrome Trip](https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif)
+
+### Corona Runner by [zouariste](https://github.com/zouariste)
+
+[Corona Runner](https://zouariste.github.io/corona-runner/)
+
+![Corona Runner](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+
+---
